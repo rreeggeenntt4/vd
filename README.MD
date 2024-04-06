@@ -2,7 +2,7 @@
 https://github.com/rreeggeenntt4/vd/blob/main/README.pdf
 # Решение:
 ```
-docker-composer up
+docker-compose up
 ```
 ```
 php artisan make:controller FlightController
